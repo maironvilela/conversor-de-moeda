@@ -1,0 +1,812 @@
+[
+  {
+    "description": "Dirham dos Emirados Árabes Unidos",
+    "code": "AED",
+    "continent": "Ásia"
+  },
+  {
+    "description": "Afegane Afegão",
+    "code": "AFN",
+    "continent": "Ásia"
+  },
+  {
+    "description": "Lek Albanês",
+    "code": "ALL",
+    "continent": "Europa"
+  },
+  {
+    "description": "Dram Armênio",
+    "code": "AMD",
+    "continent": "Ásia"
+  },
+  {
+    "description": "Guilder das Antilhas Holandesas",
+    "code": "ANG",
+    "continent": "América"
+  },
+  {
+    "description": "Kwanza Angolano",
+    "code": "AOA",
+    "continent": "África"
+  },
+  {
+    "description": "Peso Argentino",
+    "code": "ARS",
+    "continent": "América"
+  },
+  {
+    "description": "Dólar Australiano",
+    "code": "AUD",
+    "continent": "Oceania"
+  },
+  {
+    "description": "Florim Arubano",
+    "code": "AWG",
+    "continent": "América"
+  },
+  {
+    "description": "Manat Azerbaijano",
+    "code": "AZN",
+    "continent": "Ásia"
+  },
+  {
+    "description": "Marco Convertible da Bósnia e Herzegovina",
+    "code": "BAM",
+    "continent": "Europa"
+  },
+  {
+    "description": "Dólar Barbadiano",
+    "code": "BBD",
+    "continent": "América"
+  },
+  {
+    "description": "Taka Bangladeshiano",
+    "code": "BDT",
+    "continent": "Ásia"
+  },
+  {
+    "description": "Lev Búlgaro",
+    "code": "BGN",
+    "continent": "Europa"
+  },
+  {
+    "description": "Dinar Bahreinita",
+    "code": "BHD",
+    "continent": "Ásia"
+  },
+  {
+    "description": "Franco Burundiano",
+    "code": "BIF",
+    "continent": "África"
+  },
+  {
+    "description": "Dólar Bermudiano",
+    "code": "BMD",
+    "continent": "América"
+  },
+  {
+    "description": "Dólar Bruneano",
+    "code": "BND",
+    "continent": "Ásia"
+  },
+  {
+    "description": "Boliviano",
+    "code": "BOB",
+    "continent": "América"
+  },
+  {
+    "description": "Real Brasileiro",
+    "code": "BRL",
+    "continent": "América"
+  },
+  {
+    "description": "Dólar Bahamense",
+    "code": "BSD",
+    "continent": "América"
+  },
+  {
+    "description": "Ngultrum Butanês",
+    "code": "BTN",
+    "continent": "Ásia"
+  },
+  {
+    "description": "Pula Botsuano",
+    "code": "BWP",
+    "continent": "África"
+  },
+  {
+    "description": "Rublos Bielorrussos",
+    "code": "BYN",
+    "continent": "Europa"
+  },
+  {
+    "description": "Dólar Belizenho",
+    "code": "BZD",
+    "continent": "América"
+  },
+  {
+    "description": "Dólar Canadense",
+    "code": "CAD",
+    "continent": "América"
+  },
+  {
+    "description": "Franco Congolês",
+    "code": "CDF",
+    "continent": "África"
+  },
+  {
+    "description": "Franco Suíço",
+    "code": "CHF",
+    "continent": "Europa"
+  },
+  {
+    "description": "Peso Chileno",
+    "code": "CLP",
+    "continent": "América"
+  },
+  {
+    "description": "Renminbi Chinês",
+    "code": "CNY",
+    "continent": "Ásia"
+  },
+  {
+    "description": "Peso Colombiano",
+    "code": "COP",
+    "continent": "América"
+  },
+  {
+    "description": "Córdoba Costarriquenha",
+    "code": "CRC",
+    "continent": "América"
+  },
+  {
+    "description": "Peso Cubano",
+    "code": "CUP",
+    "continent": "América"
+  },
+  {
+    "description": "Escudo Cabo-Verdiano",
+    "code": "CVE",
+    "continent": "África"
+  },
+  {
+    "description": "Coroa Tcheca",
+    "code": "CZK",
+    "continent": "Europa"
+  },
+  {
+    "description": "Franco Djibutiano",
+    "code": "DJF",
+    "continent": "África"
+  },
+  {
+    "description": "Coroa Dinamarquesa",
+    "code": "DKK",
+    "continent": "Europa"
+  },
+  {
+    "description": "Peso Dominicano",
+    "code": "DOP",
+    "continent": "América"
+  },
+  {
+    "description": "Dinar Argelino",
+    "code": "DZD",
+    "continent": "África"
+  },
+  {
+    "description": "Libra Egípcia",
+    "code": "EGP",
+    "continent": "África"
+  },
+  {
+    "description": "Náfk Eritreu",
+    "code": "ERN",
+    "continent": "África"
+  },
+  {
+    "description": "Birr Etíope",
+    "code": "ETB",
+    "continent": "África"
+  },
+  {
+    "description": "Euro",
+    "code": "EUR",
+    "continent": "Europa"
+  },
+  {
+    "description": "Dólar Fijiano",
+    "code": "FJD",
+    "continent": "Oceania"
+  },
+  {
+    "description": "Libra das Ilhas Falkland",
+    "code": "FKP",
+    "continent": "América"
+  },
+  {
+    "description": "Coroa Faroesa",
+    "code": "FOK",
+    "continent": "Europa"
+  },
+  {
+    "description": "Libra Esterlina",
+    "code": "GBP",
+    "continent": "Europa"
+  },
+  {
+    "description": "Lari Georgiano",
+    "code": "GEL",
+    "continent": "Ásia"
+  },
+  {
+    "description": "Libra de Guernsey",
+    "code": "GGP",
+    "continent": "Europa"
+  },
+  {
+    "description": "Cedi Ganês",
+    "code": "GHS",
+    "continent": "África"
+  },
+  {
+    "description": "Libra de Gibraltar",
+    "code": "GIP",
+    "continent": "Europa"
+  },
+  {
+    "description": "Dalasi Gambiano",
+    "code": "GMD",
+    "continent": "África"
+  },
+  {
+    "description": "Franco Guineense",
+    "code": "GNF",
+    "continent": "África"
+  },
+  {
+    "description": "Quetzal Guatemalteco",
+    "code": "GTQ",
+    "continent": "América"
+  },
+  {
+    "description": "Dólar Guyanês",
+    "code": "GYD",
+    "continent": "América"
+  },
+  {
+    "description": "Dólar de Hong Kong",
+    "code": "HKD",
+    "continent": "Ásia"
+  },
+  {
+    "description": "Lempira Hondurenha",
+    "code": "HNL",
+    "continent": "América"
+  },
+  {
+    "description": "Cúna Croata",
+    "code": "HRK",
+    "continent": "Europa"
+  },
+  {
+    "description": "Gourde Haitiano",
+    "code": "HTG",
+    "continent": "América"
+  },
+  {
+    "description": "Forinte Húngaro",
+    "code": "HUF",
+    "continent": "Europa"
+  },
+  {
+    "description": "Rupia Indonésia",
+    "code": "IDR",
+    "continent": "Ásia"
+  },
+  {
+    "description": "Shekel Novo Israelense",
+    "code": "ILS",
+    "continent": "Ásia"
+  },
+  {
+    "description": "Libra de Manx",
+    "code": "IMP",
+    "continent": "Europa"
+  },
+  {
+    "description": "Rupia Indiana",
+    "code": "INR",
+    "continent": "Ásia"
+  },
+  {
+    "description": "Dinar Iraquiano",
+    "code": "IQD",
+    "continent": "Ásia"
+  },
+  {
+    "description": "Rial Iraniano",
+    "code": "IRR",
+    "continent": "Ásia"
+  },
+  {
+    "description": "Coroa Islandesa",
+    "code": "ISK",
+    "continent": "Europa"
+  },
+  {
+    "description": "Libra de Jersey",
+    "code": "JEP",
+    "continent": "Europa"
+  },
+  {
+    "description": "Dólar Jamaicano",
+    "code": "JMD",
+    "continent": "América"
+  },
+  {
+    "description": "Dinar Jordaniano",
+    "code": "JOD",
+    "continent": "Ásia"
+  },
+  {
+    "description": "Iene Japonês",
+    "code": "JPY",
+    "continent": "Ásia"
+  },
+  {
+    "description": "Xelim Queniano",
+    "code": "KES",
+    "continent": "África"
+  },
+  {
+    "description": "Som Quirguiz",
+    "code": "KGS",
+    "continent": "Ásia"
+  },
+  {
+    "description": "Riel Cambojano",
+    "code": "KHR",
+    "continent": "Ásia"
+  },
+  {
+    "description": "Dólar de Kiribati",
+    "code": "KID",
+    "continent": "Oceania"
+  },
+  {
+    "description": "Franco Comorense",
+    "code": "KMF",
+    "continent": "África"
+  },
+  {
+    "description": "Won Sul-Coreano",
+    "code": "KRW",
+    "continent": "Ásia"
+  },
+  {
+    "description": "Dinar Kuwaitiano",
+    "code": "KWD",
+    "continent": "Ásia"
+  },
+  {
+    "description": "Dólar das Ilhas Cayman",
+    "code": "KYD",
+    "continent": "América"
+  },
+  {
+    "description": "Tenge Cazaque",
+    "code": "KZT",
+    "continent": "Ásia"
+  },
+  {
+    "description": "Kip Lao",
+    "code": "LAK",
+    "continent": "Ásia"
+  },
+  {
+    "description": "Libra Libanesa",
+    "code": "LBP",
+    "continent": "Ásia"
+  },
+  {
+    "description": "Rupia do Sri Lanka",
+    "code": "LKR",
+    "continent": "Ásia"
+  },
+  {
+    "description": "Dólar Liberiano",
+    "code": "LRD",
+    "continent": "África"
+  },
+  {
+    "description": "Loti Lesotiano",
+    "code": "LSL",
+    "continent": "África"
+  },
+  {
+    "description": "Dinar Líbio",
+    "code": "LYD",
+    "continent": "África"
+  },
+  {
+    "description": "Dirham Marroquino",
+    "code": "MAD",
+    "continent": "África"
+  },
+  {
+    "description": "Leu Moldavo",
+    "code": "MDL",
+    "continent": "Europa"
+  },
+  {
+    "description": "Ariary Malgaxe",
+    "code": "MGA",
+    "continent": "África"
+  },
+  {
+    "description": "Dinar Macedônio",
+    "code": "MKD",
+    "continent": "Europa"
+  },
+  {
+    "description": "Kyat Birmanês",
+    "code": "MMK",
+    "continent": "Ásia"
+  },
+  {
+    "description": "Tögrög Mongol",
+    "code": "MNT",
+    "continent": "Ásia"
+  },
+  {
+    "description": "Pataca Macaense",
+    "code": "MOP",
+    "continent": "Ásia"
+  },
+  {
+    "description": "Ouguiya Mauritano",
+    "code": "MRU",
+    "continent": "África"
+  },
+  {
+    "description": "Rupia Mauriciana",
+    "code": "MUR",
+    "continent": "África"
+  },
+  {
+    "description": "Rufiyaa Maldivo",
+    "code": "MVR",
+    "continent": "Ásia"
+  },
+  {
+    "description": "Kwacha Malawiano",
+    "code": "MWK",
+    "continent": "África"
+  },
+  {
+    "description": "Peso Mexicano",
+    "code": "MXN",
+    "continent": "América"
+  },
+  {
+    "description": "Ringgit Malaio",
+    "code": "MYR",
+    "continent": "Ásia"
+  },
+  {
+    "description": "Metical Moçambicano",
+    "code": "MZN",
+    "continent": "África"
+  },
+  {
+    "description": "Dólar Namibiano",
+    "code": "NAD",
+    "continent": "África"
+  },
+  {
+    "description": "Naira Nigeriana",
+    "code": "NGN",
+    "continent": "África"
+  },
+  {
+    "description": "Córdoba Nicaraguense",
+    "code": "NIO",
+    "continent": "América"
+  },
+  {
+    "description": "Coroa Norueguesa",
+    "code": "NOK",
+    "continent": "Europa"
+  },
+  {
+    "description": "Rupia Nepalense",
+    "code": "NPR",
+    "continent": "Ásia"
+  },
+  {
+    "description": "Dólar Neozelandês",
+    "code": "NZD",
+    "continent": "Oceania"
+  },
+  {
+    "description": "Rial Omanense",
+    "code": "OMR",
+    "continent": "Ásia"
+  },
+  {
+    "description": "Balboa Panamenho",
+    "code": "PAB",
+    "continent": "América"
+  },
+  {
+    "description": "Sol Peruano",
+    "code": "PEN",
+    "continent": "América"
+  },
+  {
+    "description": "Kina da Papua-Nova Guiné",
+    "code": "PGK",
+    "continent": "Oceania"
+  },
+  {
+    "description": "Peso Filipino",
+    "code": "PHP",
+    "continent": "Ásia"
+  },
+  {
+    "description": "Rupia Paquistanesa",
+    "code": "PKR",
+    "continent": "Ásia"
+  },
+  {
+    "description": "Zloty Polonês",
+    "code": "PLN",
+    "continent": "Europa"
+  },
+  {
+    "description": "Guarani Paraguaio",
+    "code": "PYG",
+    "continent": "América"
+  },
+  {
+    "description": "Riyal Qatariano",
+    "code": "QAR",
+    "continent": "Ásia"
+  },
+  {
+    "description": "Leu Romeno",
+    "code": "RON",
+    "continent": "Europa"
+  },
+  {
+    "description": "Dinar Sérvio",
+    "code": "RSD",
+    "continent": "Europa"
+  },
+  {
+    "description": "Rublos Russos",
+    "code": "RUB",
+    "continent": "Europa"
+  },
+  {
+    "description": "Franco Ruandês",
+    "code": "RWF",
+    "continent": "África"
+  },
+  {
+    "description": "Riyal Saudita",
+    "code": "SAR",
+    "continent": "Ásia"
+  },
+  {
+    "description": "Dólar das Ilhas Salomão",
+    "code": "SBD",
+    "continent": "Oceania"
+  },
+  {
+    "description": "Rúpia Seichelense",
+    "code": "SCR",
+    "continent": "África"
+  },
+  {
+    "description": "Libra Sudanesa",
+    "code": "SDG",
+    "continent": "África"
+  },
+  {
+    "description": "Coroa Sueca",
+    "code": "SEK",
+    "continent": "Europa"
+  },
+  {
+    "description": "Dólar Singapuriano",
+    "code": "SGD",
+    "continent": "Ásia"
+  },
+  {
+    "description": "Libra de Santa Helena",
+    "code": "SHP",
+    "continent": "América"
+  },
+  {
+    "description": "Leão Serra-leonês",
+    "code": "SLE",
+    "continent": "África"
+  },
+  {
+    "description": "Leão Sierra Leoneano",
+    "code": "SLL",
+    "continent": "África"
+  },
+  {
+    "description": "Xelim Somali",
+    "code": "SOS",
+    "continent": "África"
+  },
+  {
+    "description": "Dólar Surinamês",
+    "code": "SRD",
+    "continent": "América"
+  },
+  {
+    "description": "Libra Sul-Sudanesa",
+    "code": "SSP",
+    "continent": "África"
+  },
+  {
+    "description": "Dobra São-Tomense",
+    "code": "STN",
+    "continent": "África"
+  },
+  {
+    "description": "Libra Síria",
+    "code": "SYP",
+    "continent": "Ásia"
+  },
+  {
+    "description": "Lilangeni de Eswatini",
+    "code": "SZL",
+    "continent": "África"
+  },
+  {
+    "description": "Baht Tailandês",
+    "code": "THB",
+    "continent": "Ásia"
+  },
+  {
+    "description": "Somoni Tajique",
+    "code": "TJS",
+    "continent": "Ásia"
+  },
+  {
+    "description": "Manat Turcomano",
+    "code": "TMT",
+    "continent": "Ásia"
+  },
+  {
+    "description": "Dinar Tunisiano",
+    "code": "TND",
+    "continent": "África"
+  },
+  {
+    "description": "Pa'anga Tonganês",
+    "code": "TOP",
+    "continent": "Oceania"
+  },
+  {
+    "description": "Lira Turca",
+    "code": "TRY",
+    "continent": "Ásia"
+  },
+  {
+    "description": "Dólar de Trinidad e Tobago",
+    "code": "TTD",
+    "continent": "América"
+  },
+  {
+    "description": "Dólar Tuvaluano",
+    "code": "TVD",
+    "continent": "Oceania"
+  },
+  {
+    "description": "Novo Dólar de Taiwan",
+    "code": "TWD",
+    "continent": "Ásia"
+  },
+  {
+    "description": "Xelim Tanzaniano",
+    "code": "TZS",
+    "continent": "África"
+  },
+  {
+    "description": "Hryvnia Ucraniana",
+    "code": "UAH",
+    "continent": "Europa"
+  },
+  {
+    "description": "Xelim Ugandense",
+    "code": "UGX",
+    "continent": "África"
+  },
+  {
+    "description": "Dólar Americano",
+    "code": "USD",
+    "continent": "América"
+  },
+  {
+    "description": "Peso Uruguaio",
+    "code": "UYU",
+    "continent": "América"
+  },
+  {
+    "description": "So'm Uzbeque",
+    "code": "UZS",
+    "continent": "Ásia"
+  },
+  {
+    "description": "Bolívar Soberano Venezuelano",
+    "code": "VES",
+    "continent": "América"
+  },
+  {
+    "description": "Dong Vietnamita",
+    "code": "VND",
+    "continent": "Ásia"
+  },
+  {
+    "description": "Vatu de Vanuatu",
+    "code": "VUV",
+    "continent": "Oceania"
+  },
+  {
+    "description": "Tālā de Samoa",
+    "code": "WST",
+    "continent": "Oceania"
+  },
+  {
+    "description": "Franco CFA da África Central",
+    "code": "XAF",
+    "continent": "África"
+  },
+  {
+    "description": "Dólar do Caribe Oriental",
+    "code": "XCD",
+    "continent": "América"
+  },
+  {
+    "description": "Direitos Especiais de Saque",
+    "code": "XDR",
+    "continent": "Internacional"
+  },
+  {
+    "description": "Franco CFA da África Ocidental",
+    "code": "XOF",
+    "continent": "África"
+  },
+  {
+    "description": "Franco CFP",
+    "code": "XPF",
+    "continent": "Oceania"
+  },
+  {
+    "description": "Rial Yemenita",
+    "code": "YER",
+    "continent": "Ásia"
+  },
+  {
+    "description": "Rand Sul-Africano",
+    "code": "ZAR",
+    "continent": "África"
+  },
+  {
+    "description": "Kwacha Zambiano",
+    "code": "ZMW",
+    "continent": "África"
+  },
+  {
+    "description": "Dólar Zimbabuano",
+    "code": "ZWL",
+    "continent": "África"
+  }
+]
