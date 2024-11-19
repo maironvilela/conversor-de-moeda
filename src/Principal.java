@@ -15,13 +15,13 @@ public class Principal {
         Dotenv dotenv = Dotenv.load();
         Scanner scanner = new Scanner(System.in);
         HttpClient client = HttpClient.newHttpClient();
-        HttpRequest request = null;
-        HttpResponse<String> response = null;
+
         LoadFile loadFile = new LoadFile();
         CurrencyConverter currencyConverter = new CurrencyConverter();
-
         JsonToObjectConverter<HttpResponseType> converterJson = new JsonToObjectConverter<HttpResponseType>();
 
+        HttpRequest request = null;
+        HttpResponse<String> response = null;
         List<Options> supportedCurrencies = null;
         HttpResponseType httpResponseType = null;
 
@@ -43,12 +43,12 @@ public class Principal {
 
             System.out.println("A lista acima contem os códigos das moedas (ex: BRL - para real brasileiro)");
 
-            System.out.print("Converter dê: (Ex: EUR) ");
-            var moedaParaConverter = scanner.nextLine();
+            System.out.print("Converter de: ");
+            var moedaParaConverter = scanner.next();
 
 
-            System.out.print("Para: (Ex: BRL) ");
-            var moedaConvertida = scanner.nextLine();
+            System.out.print("Para: ");
+            var moedaConvertida = scanner.next();
 
 
             try {
